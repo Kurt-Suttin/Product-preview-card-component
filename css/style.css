@@ -1,3 +1,11 @@
+.fraunces{
+    font-family: 'Fraunces', serif;
+}
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 .main-background-color {
     background-color: hsl(30, 38%, 92%);
 
@@ -24,10 +32,33 @@
     border-top-left-radius: 2%;
     border-bottom-left-radius: 2%;
 }
+
 .perfume-spacing{
 letter-spacing: 5px;
 
 }
-.btn-cyan{
+/*/// colors ///*/
+.cyan-color{
+    color: hsl(158, 36%, 37%);
+}
+.cyan-background-color{
     background-color: hsl(158, 36%, 37%);
+}
+.grey-text-color{
+color : hsl(228, 12%, 48%)
+}
+
+.btn-size{
+    width: 100%;
+   padding-top: 2rem;
+}
+.content-padding{
+    padding-bottom: 10%;
+}
+
+.line-through{
+    text-decoration: line-through
+}
+.white-color{
+    color: white;
 }
